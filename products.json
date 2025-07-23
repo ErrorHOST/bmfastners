@@ -1,0 +1,1108 @@
+[
+  {
+    "name": "Hex Bolt",
+    "description": "DIN 933/ IS1363",
+    "image": "https://fasteners-fittings.com/static/media/HexBolt.86d496cc13fc339aa6fb.png",
+    "category": "Bolts",
+    "image_name": "hex_bolt.png"
+  },
+  {
+    "name": "Hex Half Thread Bolt",
+    "description": "DIN 931/ IS1363",
+    "image": "https://fasteners-fittings.com/static/media/HalfThreadBolt.771c7fac7b7255cc5d9f.png",
+    "category": "Bolts",
+    "image_name": "hex_half_thread_bolt.png"
+  },
+  {
+    "name": "Hex Slotted Bolt",
+    "description": "DIN 962",
+    "image": "https://fasteners-fittings.com/static/media/SlottedBolt.835b20e43516f76789ac.png",
+    "category": "Bolts",
+    "image_name": "hex_slotted_bolt.png"
+  },
+  {
+    "name": "Flange Bolt",
+    "description": "DIN 6921",
+    "image": "https://fasteners-fittings.com/static/media/FlangeBolt.55803a9c9acb930d11af.png",
+    "category": "Bolts",
+    "image_name": "flange_bolt.png"
+  },
+  {
+    "name": "Carraige Bolt",
+    "description": "DIN 603",
+    "image": "https://fasteners-fittings.com/static/media/CarriageBolt.563cde135b480984eea2.png",
+    "category": "Bolts",
+    "image_name": "carraige_bolt.png"
+  },
+  {
+    "name": "Eye Bolt",
+    "description": "DIN 580",
+    "image": "https://fasteners-fittings.com/static/media/EyeBolt.57a6e5a4d39123998103.png",
+    "category": "Bolts",
+    "image_name": "eye_bolt.png"
+  },
+  {
+    "name": "Dome Bolt",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/DomeBolt.8226643f0c42db5886cd.png",
+    "category": "Bolts",
+    "image_name": "dome_bolt.png"
+  },
+  {
+    "name": "Wing Bolt",
+    "description": "DIN 316",
+    "image": "https://fasteners-fittings.com/static/media/WingBolt.a63a9a71a99f1eabf9d9.png",
+    "category": "Bolts",
+    "image_name": "wing_bolt.png"
+  },
+  {
+    "name": "Anti-Theaft Bolt",
+    "description": "DIN 24424",
+    "image": "https://fasteners-fittings.com/static/media/AntiTheftBolt.deddb04de8f3352ce3ca.png",
+    "category": "Bolts",
+    "image_name": "anti-theaft_bolt.png"
+  },
+  {
+    "name": "Tee Bolt",
+    "description": "DIN 186",
+    "image": "https://fasteners-fittings.com/static/media/TeeBolt.1ccabc1c0d6b6a076aed.png",
+    "category": "Bolts",
+    "image_name": "tee_bolt.png"
+  },
+  {
+    "name": "J Bolt",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/JBolt.841646be43962e73563a.png",
+    "category": "Bolts",
+    "image_name": "j_bolt.png"
+  },
+  {
+    "name": "U Bolt",
+    "description": "DIN 3570",
+    "image": "https://fasteners-fittings.com/static/media/UBolt.f38e1404c0f455e5a562.png",
+    "category": "Bolts",
+    "image_name": "u_bolt.png"
+  },
+  {
+    "name": "Hex Nut",
+    "description": "DIN 934/ ANSI B18.2.4.1M",
+    "image": "https://fasteners-fittings.com/static/media/Hex_Nut.2cad9d1d3676552eb359.png",
+    "category": "Nuts",
+    "image_name": "hex_nut.png"
+  },
+  {
+    "name": "Lock Nut",
+    "description": "DIN 439/ ISO7042",
+    "image": "https://fasteners-fittings.com/static/media/LockNut.a338fb00c76de28f02db.png",
+    "category": "Nuts",
+    "image_name": "lock_nut.png"
+  },
+  {
+    "name": "Nylock Nut",
+    "description": "DIN 982, 985",
+    "image": "https://fasteners-fittings.com/static/media/NylockNut.12b10a476cc3414b6ac1.png",
+    "category": "Nuts",
+    "image_name": "nylock_nut.png"
+  },
+  {
+    "name": "Flange Nylock Nut",
+    "description": "DIN 6926",
+    "image": "https://fasteners-fittings.com/static/media/FlangeNylockNut.0127464e1c51e4d640ca.png",
+    "category": "Nuts",
+    "image_name": "flange_nylock_nut.png"
+  },
+  {
+    "name": "Dome Nut",
+    "description": "DIN 1587",
+    "image": "https://fasteners-fittings.com/static/media/DomeNut.27f23d2cd53c1cbee226.png",
+    "category": "Nuts",
+    "image_name": "dome_nut.png"
+  },
+  {
+    "name": "Flange Nut",
+    "description": "DIN 6923",
+    "image": "https://fasteners-fittings.com/static/media/FlangeNut.2df5f24ee2e32ea93854.png",
+    "category": "Nuts",
+    "image_name": "flange_nut.png"
+  },
+  {
+    "name": "Kep Nut",
+    "description": "DIN 7967",
+    "image": "https://fasteners-fittings.com/static/media/KepNut.ff6cde50d158ebc64f26.png",
+    "category": "Nuts",
+    "image_name": "kep_nut.png"
+  },
+  {
+    "name": "Metal Locking Nut",
+    "description": "DIN 980",
+    "image": "https://fasteners-fittings.com/static/media/MetalLockingNut.91c4b93dd7d5533d01a2.png",
+    "category": "Nuts",
+    "image_name": "metal_locking_nut.png"
+  },
+  {
+    "name": "Clinching Nut",
+    "description": "DIN 1587",
+    "image": "https://fasteners-fittings.com/static/media/ClinchingNut.7c2a2825c8f490f131fd.png",
+    "category": "Nuts",
+    "image_name": "clinching_nut.png"
+  },
+  {
+    "name": "Square Nut",
+    "description": "DIN 557",
+    "image": "https://fasteners-fittings.com/static/media/SquareNut.cd91679b029417cb99b5.png",
+    "category": "Nuts",
+    "image_name": "square_nut.png"
+  },
+  {
+    "name": "Tiger Nut",
+    "description": "DIN 1624",
+    "image": "https://fasteners-fittings.com/static/media/TNut.e0bbb3afe36afc429028.png",
+    "category": "Nuts",
+    "image_name": "tiger_nut.png"
+  },
+  {
+    "name": "Hammer Nut",
+    "description": "DIN 87014",
+    "image": "https://fasteners-fittings.com/static/media/TeeNut.51a86d5dcf197ac724f7.png",
+    "category": "Nuts",
+    "image_name": "hammer_nut.png"
+  },
+  {
+    "name": "Anti-Theft Nut",
+    "description": "DIN 9150",
+    "image": "https://fasteners-fittings.com/static/media/AntiTheftNut.2e3ebce7c0d28b845f85.png",
+    "category": "Nuts",
+    "image_name": "anti-theft_nut.png"
+  },
+  {
+    "name": "Eye Nut",
+    "description": "DIN 582",
+    "image": "https://fasteners-fittings.com/static/media/EyeNut.be43db3d2d9c90ae7df7.png",
+    "category": "Nuts",
+    "image_name": "eye_nut.png"
+  },
+  {
+    "name": "Wing Nut",
+    "description": "DIN 315",
+    "image": "https://fasteners-fittings.com/static/media/WingNut.709840b7c34199e377cb.png",
+    "category": "Nuts",
+    "image_name": "wing_nut.png"
+  },
+  {
+    "name": "Cage Nut",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/CageNut.1d5fef19d1c0e00f1672.png",
+    "category": "Nuts",
+    "image_name": "cage_nut.png"
+  },
+  {
+    "name": "Hex Weld Nut",
+    "description": "DIN 929",
+    "image": "https://fasteners-fittings.com/static/media/HexWeldNut.d320204647a82012c537.png",
+    "category": "Nuts",
+    "image_name": "hex_weld_nut.png"
+  },
+  {
+    "name": "Square Weld Nut",
+    "description": "DIN 928",
+    "image": "https://fasteners-fittings.com/static/media/SquareWeldNut.2c527afc7ed56742da80.png",
+    "category": "Nuts",
+    "image_name": "square_weld_nut.png"
+  },
+  {
+    "name": "Heavy Wing Nut",
+    "description": "DIN 315",
+    "image": "https://fasteners-fittings.com/static/media/HeavyWingNut.137a98c8c80f2edde971.png",
+    "category": "Nuts",
+    "image_name": "heavy_wing_nut.png"
+  },
+  {
+    "name": "Spring Nut",
+    "description": "DIN 34818",
+    "image": "https://fasteners-fittings.com/static/media/SpringNut.76914e52b51e5d703dea.png",
+    "category": "Nuts",
+    "image_name": "spring_nut.png"
+  },
+  {
+    "name": "T Nut",
+    "description": "DIN 508",
+    "image": "https://fasteners-fittings.com/static/media/THighNut.a7087ace08505731b724.png",
+    "category": "Nuts",
+    "image_name": "t_nut.png"
+  },
+  {
+    "name": "Heavy Flange Nut",
+    "description": "DIN 6923",
+    "image": "https://fasteners-fittings.com/static/media/HeavyFlangeNut.1f63a3c724e51eeba1b0.png",
+    "category": "Nuts",
+    "image_name": "heavy_flange_nut.png"
+  },
+  {
+    "name": "RoundBody Insert",
+    "description": "DIN 34805",
+    "image": "https://fasteners-fittings.com/static/media/RoundInsertNut.f20d8650c20e73619aeb.png",
+    "category": "Insert Nuts",
+    "image_name": "roundbody_insert.png"
+  },
+  {
+    "name": "Half Hex Insert",
+    "description": "DIN 1587",
+    "image": "https://fasteners-fittings.com/static/media/HalfHexInsertNut.f5b549e87893355be2ea.png",
+    "category": "Insert Nuts",
+    "image_name": "half_hex_insert.png"
+  },
+  {
+    "name": "Brass Insert",
+    "description": "DIN 16503",
+    "image": "https://fasteners-fittings.com/static/media/BrassInsert.3ab91962169e8a6fcb1b.png",
+    "category": "Insert Nuts",
+    "image_name": "brass_insert.png"
+  },
+  {
+    "name": "Wood Insert",
+    "description": "DIN 7965",
+    "image": "https://fasteners-fittings.com/static/media/WoodInsert.4c4c8f02eeb69278dae0.png",
+    "category": "Insert Nuts",
+    "image_name": "wood_insert.png"
+  },
+  {
+    "name": "Full Hex Insert",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/FullHexInsertNut.e899254f50025cffba06.png",
+    "category": "Insert Nuts",
+    "image_name": "full_hex_insert.png"
+  },
+  {
+    "name": "Close Full Hex",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/CloseFullHexInsertNut.1a19ed47ad8569814ffb.png",
+    "category": "Insert Nuts",
+    "image_name": "close_full_hex.png"
+  },
+  {
+    "name": "Close Round",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/CloseRoundInsertNut.611368384b440c17ab5f.png",
+    "category": "Insert Nuts",
+    "image_name": "close_round.png"
+  },
+  {
+    "name": "Close Half Hex",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/CloseHalfHexInsert.159290cf52b868d6dcb3.png",
+    "category": "Insert Nuts",
+    "image_name": "close_half_hex.png"
+  },
+  {
+    "name": "Bulb Tite Rivet",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/BulbTiteRivet.f7975db55b3686253f06.png",
+    "category": "Rivets",
+    "image_name": "bulb_tite_rivet.png"
+  },
+  {
+    "name": "Closed End Rivet",
+    "description": "DIN 7337",
+    "image": "https://fasteners-fittings.com/static/media/ClosedEndRivet.99c9c486869024d330cd.png",
+    "category": "Rivets",
+    "image_name": "closed_end_rivet.png"
+  },
+  {
+    "name": "Open End Rivet",
+    "description": "DIN 7337",
+    "image": "https://fasteners-fittings.com/static/media/OpenEndRivet.044482da4669c9e0b469.png",
+    "category": "Rivets",
+    "image_name": "open_end_rivet.png"
+  },
+  {
+    "name": "Mono Bolt Rivet",
+    "description": "DIN 7337",
+    "image": "https://fasteners-fittings.com/static/media/MonoBoltRivet.9bf7033e8f0e7638ad60.png",
+    "category": "Rivets",
+    "image_name": "mono_bolt_rivet.png"
+  },
+  {
+    "name": "Multi Grip Rivet",
+    "description": "DIN 7337",
+    "image": "https://fasteners-fittings.com/static/media/MultiGripRivet.25f1b5ef9e206a3a1fe1.png",
+    "category": "Rivets",
+    "image_name": "multi_grip_rivet.png"
+  },
+  {
+    "name": "Color Rivet",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/ColorRivet.ad55dcfaed63724c7aa7.png",
+    "category": "Rivets",
+    "image_name": "color_rivet.png"
+  },
+  {
+    "name": "Clamping Studs",
+    "description": "DIN 6379",
+    "image": "https://fasteners-fittings.com/static/media/ClampingStud.76b9d74c2b7a5e6952e2.png",
+    "category": "Studs",
+    "image_name": "clamping_studs.png"
+  },
+  {
+    "name": "Clinch Studs",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/ClinchStud.c1b193089dde323ad272.png",
+    "category": "Studs",
+    "image_name": "clinch_studs.png"
+  },
+  {
+    "name": "Full Thread Studs",
+    "description": "DIN 975",
+    "image": "https://fasteners-fittings.com/static/media/FullThreadStud.19a92a2f029f564afd5e.png",
+    "category": "Studs",
+    "image_name": "full_thread_studs.png"
+  },
+  {
+    "name": "Weld Studs",
+    "description": "DIN 32501",
+    "image": "https://fasteners-fittings.com/static/media/WeldStud.9e96b4d5d47daf610ae7.png",
+    "category": "Studs",
+    "image_name": "weld_studs.png"
+  },
+  {
+    "name": "Allen Cap",
+    "description": "DIN 912",
+    "image": "https://fasteners-fittings.com/static/media/AllenCap.c9943e1dd27884ded89b.png",
+    "category": "SocketHead Screw",
+    "image_name": "allen_cap.png"
+  },
+  {
+    "name": "Allen CSK",
+    "description": "DIN 7991/ ISO10642",
+    "image": "https://fasteners-fittings.com/static/media/AllenCsk.6f21f73b3a1df228c9a5.png",
+    "category": "SocketHead Screw",
+    "image_name": "allen_csk.png"
+  },
+  {
+    "name": "Ball Grub Screw",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/BallGrubScrew.12bd9f9af9122680a96e.png",
+    "category": "SocketHead Screw",
+    "image_name": "ball_grub_screw.png"
+  },
+  {
+    "name": "Button Head",
+    "description": "ISO 7380",
+    "image": "https://fasteners-fittings.com/static/media/ButtonHead.77bee03a939f4dfbd50a.png",
+    "category": "SocketHead Screw",
+    "image_name": "button_head.png"
+  },
+  {
+    "name": "Grub Screw",
+    "description": "DIN 916",
+    "image": "https://fasteners-fittings.com/static/media/GrubScrew.1d02601ef59844083d7e.png",
+    "category": "SocketHead Screw",
+    "image_name": "grub_screw.png"
+  },
+  {
+    "name": "Point Grub Screw",
+    "description": "DIN 914",
+    "image": "https://fasteners-fittings.com/static/media/PointGrabScrew.bd703d754a480d9682f6.png",
+    "category": "SocketHead Screw",
+    "image_name": "point_grub_screw.png"
+  },
+  {
+    "name": "Cheese Head",
+    "description": "DIN 84",
+    "image": "https://fasteners-fittings.com/static/media/CheeseHead.358073dd9084f84a41cf.png",
+    "category": "Machine Screws",
+    "image_name": "cheese_head.png"
+  },
+  {
+    "name": "Round Head",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/RoundHead.512e594785309d974c76.png",
+    "category": "Machine Screws",
+    "image_name": "round_head.png"
+  },
+  {
+    "name": "Csk Slotted",
+    "description": "DIN 963",
+    "image": "https://fasteners-fittings.com/static/media/CskSlotted.190c1d8421902e78b4f7.png",
+    "category": "Machine Screws",
+    "image_name": "csk_slotted.png"
+  },
+  {
+    "name": "Pan Head",
+    "description": "NA",
+    "image": "https://fasteners-fittings.com/static/media/PanHead.6ca2cf76749c6d2fc099.png",
+    "category": "Machine Screws",
+    "image_name": "pan_head.png"
+  },
+  {
+    "name": "Csk Phillips",
+    "description": "DIN 965",
+    "image": "https://fasteners-fittings.com/static/media/CskPhillips.787d8ad6406a59d17491.png",
+    "category": "Machine Screws",
+    "image_name": "csk_phillips.png"
+  },
+  {
+    "name": "Pan Phillips",
+    "description": "DIN 7985",
+    "image": "https://fasteners-fittings.com/static/media/PanPhillips.e67009b15548a1cd2206.png",
+    "category": "Machine Screws",
+    "image_name": "pan_phillips.png"
+  },
+  {
+    "name": "Csk Phillips Sts",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/CskPhillipsSts.9ea68109eb1c8da368ab.png",
+    "category": "Self Tapping",
+    "image_name": "csk_phillips_sts.png"
+  },
+  {
+    "name": "Pan Phillips Sts",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PanPhillipsSts.f3dfca920f26cebeb13d.png",
+    "category": "Self Tapping",
+    "image_name": "pan_phillips_sts.png"
+  },
+  {
+    "name": "Coach Screw",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/CoachScrew.5a19befe764ef665c5b8.png",
+    "category": "Self Tapping",
+    "image_name": "coach_screw.png"
+  },
+  {
+    "name": "Hex Head Sts",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/HexHeadSts.c74ec322a6f394391ea8.png",
+    "category": "Self Tapping",
+    "image_name": "hex_head_sts.png"
+  },
+  {
+    "name": "Pan Head Sts",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PanHeadSts.a2253a8d942e0787cb19.png",
+    "category": "Self Tapping",
+    "image_name": "pan_head_sts.png"
+  },
+  {
+    "name": "Drywall Screw",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/DrywallScrew.b01bd8bc66a8edbb4e42.png",
+    "category": "Self Tapping",
+    "image_name": "drywall_screw.png"
+  },
+  {
+    "name": "Csk Phillips Sds",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/CskPhillipsSds.d64adc0160f9c5c6f729.png",
+    "category": "Self Drilling",
+    "image_name": "csk_phillips_sds.png"
+  },
+  {
+    "name": "Pan Phillips Sds",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PanPhillipsSds.045a049409f524aa1067.png",
+    "category": "Self Drilling",
+    "image_name": "pan_phillips_sds.png"
+  },
+  {
+    "name": "Truss Phillips Sds",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/TrussPhillipsSds.3de982e88e0659ea6fd6.png",
+    "category": "Self Drilling",
+    "image_name": "truss_phillips_sds.png"
+  },
+  {
+    "name": "Hex Head Sds",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/HexHeadSds.672fa309f18a4cf0aeb1.png",
+    "category": "Self Drilling",
+    "image_name": "hex_head_sds.png"
+  },
+  {
+    "name": "Wedge Type Anchor",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/WedgeAnchor.cfe575b77f6a01d7ba1f.png",
+    "category": "Anchor Fasteners",
+    "image_name": "wedge_type_anchor.png"
+  },
+  {
+    "name": "Pin Type Anchor",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PinTypeAnchor.936732c276f53a82a4ce.png",
+    "category": "Anchor Fasteners",
+    "image_name": "pin_type_anchor.png"
+  },
+  {
+    "name": "Chemical Fasteners",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/ChemicalFastener.9e5866bc03c6b7e14e44.png",
+    "category": "Anchor Fasteners",
+    "image_name": "chemical_fasteners.png"
+  },
+  {
+    "name": "Bullet Fasteners",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/BulletFastener.a4a2501bb64773d74182.png",
+    "category": "Anchor Fasteners",
+    "image_name": "bullet_fasteners.png"
+  },
+  {
+    "name": "Rawl Bolt",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/RawlBolt.577edc69d35f7ab2133b.png",
+    "category": "Anchor Fasteners",
+    "image_name": "rawl_bolt.png"
+  },
+  {
+    "name": "Sleeve Bolt",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/SleeveBolt.3cb5e1fe5f40af425ffb.png",
+    "category": "Anchor Fasteners",
+    "image_name": "sleeve_bolt.png"
+  },
+  {
+    "name": "Eye Hook Rawl Bolt",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/EyeHookBolt.08e2365c8fc3bc795d81.png",
+    "category": "Anchor Fasteners",
+    "image_name": "eye_hook_rawl_bolt.png"
+  },
+  {
+    "name": "J Hook Rawl Bolt",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/JHookBolt.0d5e8305712aef8d45f3.png",
+    "category": "Anchor Fasteners",
+    "image_name": "j_hook_rawl_bolt.png"
+  },
+  {
+    "name": "Tam Anchor",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/TamAnchor.9cb8960b4c5f59c61390.png",
+    "category": "Anchor Fasteners",
+    "image_name": "tam_anchor.png"
+  },
+  {
+    "name": "Allen Csk Anchor",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/AllenCskAnchor.e668d68d0fa0913645ec.png",
+    "category": "Anchor Fasteners",
+    "image_name": "allen_csk_anchor.png"
+  },
+  {
+    "name": "Foundation Bolt",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/FoundationBolt.236e49e80fb968d3028a.png",
+    "category": "Anchor Fasteners",
+    "image_name": "foundation_bolt.png"
+  },
+  {
+    "name": "Nylon Frame Screw",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/NylonFrameScrew.31d7b7d46af1550b24ff.png",
+    "category": "Anchor Fasteners",
+    "image_name": "nylon_frame_screw.png"
+  },
+  {
+    "name": "Plain Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PlainWasher.320ce35e167417461dca.png",
+    "category": "Washers",
+    "image_name": "plain_washer.png"
+  },
+  {
+    "name": "Spring Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/SpringWasher.adf38dde0ae5e2937512.png",
+    "category": "Washers",
+    "image_name": "spring_washer.png"
+  },
+  {
+    "name": "Countersunk Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Countersunkwasher.5f37929bf0699eb270fe.png",
+    "category": "Washers",
+    "image_name": "countersunk_washer.png"
+  },
+  {
+    "name": "Square Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/SquareWasher.89d14945bdb9a709a2ed.png",
+    "category": "Washers",
+    "image_name": "square_washer.png"
+  },
+  {
+    "name": "Nord Lock Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/NordLockWasher.def5e6638a2fff3be659.png",
+    "category": "Washers",
+    "image_name": "nord_lock_washer.png"
+  },
+  {
+    "name": "Taper Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/TaperWasher.a4a2b90b062bcca3a4c9.png",
+    "category": "Washers",
+    "image_name": "taper_washer.png"
+  },
+  {
+    "name": "Epdm Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/EpdmWasher.6c078a94cecb13c73342.png",
+    "category": "Washers",
+    "image_name": "epdm_washer.png"
+  },
+  {
+    "name": "Internal Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/InternalWasher.26aa8ba77b8d6989e9ce.png",
+    "category": "Washers",
+    "image_name": "internal_washer.png"
+  },
+  {
+    "name": "External Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/ExternalWasher.a86c0343067462505235.png",
+    "category": "Washers",
+    "image_name": "external_washer.png"
+  },
+  {
+    "name": "Brass Plain Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/BrassPlainWasher.9cde15177d20accb8009.png",
+    "category": "Washers",
+    "image_name": "brass_plain_washer.png"
+  },
+  {
+    "name": "Nylock Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/NylonWasher.1c476b3f40ab8977955c.png",
+    "category": "Washers",
+    "image_name": "nylock_washer.png"
+  },
+  {
+    "name": "Fibre Washer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/FibreWasher.e1114d01f328bd0638c1.png",
+    "category": "Washers",
+    "image_name": "fibre_washer.png"
+  },
+  {
+    "name": "External Circlip",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/ExternalCirclip.7b350dfb766f645537dd.png",
+    "category": "Other Products",
+    "image_name": "external_circlip.png"
+  },
+  {
+    "name": "Internal Circlip",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/InternalCirclip.c7da2062899ff3150649.png",
+    "category": "Other Products",
+    "image_name": "internal_circlip.png"
+  },
+  {
+    "name": "E Circlip",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/ECirclip.a71d351c0f9045f1199e.png",
+    "category": "Other Products",
+    "image_name": "e_circlip.png"
+  },
+  {
+    "name": "Split Pin",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/SplitPin.3574f6e65ec4878d0f61.png",
+    "category": "Other Products",
+    "image_name": "split_pin.png"
+  },
+  {
+    "name": "Spring Dowel Pin",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/SpringDowelPin.ef2cdedf9d26a92e59b3.png",
+    "category": "Other Products",
+    "image_name": "spring_dowel_pin.png"
+  },
+  {
+    "name": "Internal Thread Dowel",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/InterThreadDowel.bde7a532ae06252bbcd9.png",
+    "category": "Other Products",
+    "image_name": "internal_thread_dowel.png"
+  },
+  {
+    "name": "Solid Dowel Pin",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/SolidDowelPin.6345ca757a9109569388.png",
+    "category": "Other Products",
+    "image_name": "solid_dowel_pin.png"
+  },
+  {
+    "name": "Heli Coil",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/HeilCoil.76d5658c05c073d1bcf8.png",
+    "category": "Other Products",
+    "image_name": "heli_coil.png"
+  },
+  {
+    "name": "Heli Coil Set",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/HeilCoilSet.5ed0a1f9a7c55d402477.png",
+    "category": "Other Products",
+    "image_name": "heli_coil_set.png"
+  },
+  {
+    "name": "Allen Key",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/AllenKey.52331cc100e6fe25707a.png",
+    "category": "Other Products",
+    "image_name": "allen_key.png"
+  },
+  {
+    "name": "Rivet Gun",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/RivetGun.ce45ac894b73be08c6bc.png",
+    "category": "Other Products",
+    "image_name": "rivet_gun.png"
+  },
+  {
+    "name": "Lug",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Lug.35c9b84eebedb2c21cbe.png",
+    "category": "Other Products",
+    "image_name": "lug.png"
+  },
+  {
+    "name": "Short Band",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Short.640c163203093f9810b5.png",
+    "category": "Pipe Fittings",
+    "image_name": "short_band.png"
+  },
+  {
+    "name": "Long Band",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Long.189cf72b684873eadae9.png",
+    "category": "Pipe Fittings",
+    "image_name": "long_band.png"
+  },
+  {
+    "name": "Stubend",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Stubend.bef152b15b9713b00b84.png",
+    "category": "Pipe Fittings",
+    "image_name": "stubend.png"
+  },
+  {
+    "name": "Tee",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Tee.c94f078d86ee0877fdf4.png",
+    "category": "Pipe Fittings",
+    "image_name": "tee.png"
+  },
+  {
+    "name": "Reducer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Reducer.e6469e0382a814d6ef93.png",
+    "category": "Pipe Fittings",
+    "image_name": "reducer.png"
+  },
+  {
+    "name": "Uband",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/UBand.6e816121906a8bd9511b.png",
+    "category": "Pipe Fittings",
+    "image_name": "uband.png"
+  },
+  {
+    "name": "Nipple",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Nipple.f54467b312ee03d79bf5.png",
+    "category": "Pipe Fittings",
+    "image_name": "nipple.png"
+  },
+  {
+    "name": "Hex Head Plug",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/HexHead.8bebf4ffd8631b2246fd.png",
+    "category": "Pipe Fittings",
+    "image_name": "hex_head_plug.png"
+  },
+  {
+    "name": "Union",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Union.1798cb7b8dd7dd90afd8.png",
+    "category": "Pipe Fittings",
+    "image_name": "union.png"
+  },
+  {
+    "name": "Socket",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Socket.1c59b1d6557224449727.png",
+    "category": "Pipe Fittings",
+    "image_name": "socket.png"
+  },
+  {
+    "name": "Square Head Plug",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Square.8019f8f674e12c6774a8.png",
+    "category": "Pipe Fittings",
+    "image_name": "square_head_plug.png"
+  },
+  {
+    "name": "Hose Nipple",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/HoseNipple.c814232a0f64c721e16a.png",
+    "category": "Pipe Fittings",
+    "image_name": "hose_nipple.png"
+  },
+  {
+    "name": "Hex Nipple",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/HexNipple.3c14bcf05f40db6ca4ed.png",
+    "category": "Pipe Fittings",
+    "image_name": "hex_nipple.png"
+  },
+  {
+    "name": "Thread Tee",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/ThreadTee.237a3e1b6bbcb597a26b.png",
+    "category": "Pipe Fittings",
+    "image_name": "thread_tee.png"
+  },
+  {
+    "name": "Elbow",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Elbow.a9ba5b74d00a85cc8858.png",
+    "category": "Pipe Fittings",
+    "image_name": "elbow.png"
+  },
+  {
+    "name": "Y Type Tee",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/YType.221259540b900b928767.png",
+    "category": "Pipe Fittings",
+    "image_name": "y_type_tee.png"
+  },
+  {
+    "name": "Cross Type Tee",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/CrossType.d8970e369b955ca6950e.png",
+    "category": "Pipe Fittings",
+    "image_name": "cross_type_tee.png"
+  },
+  {
+    "name": "Hose Pipe",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/HosePipe.f4daf60d0cb2b73fe357.png",
+    "category": "Dairy Fittings",
+    "image_name": "hose_pipe.png"
+  },
+  {
+    "name": "Cap",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Cap.a64036fd4a969e05575d.png",
+    "category": "Dairy Fittings",
+    "image_name": "cap.png"
+  },
+  {
+    "name": "TC Ferrule",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Ferrule.fc7c4798846c9990088f.png",
+    "category": "Dairy Fittings",
+    "image_name": "tc_ferrule.png"
+  },
+  {
+    "name": "TC Cross",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Cross.1a3ebb3a4a903b5fe5f0.png",
+    "category": "Dairy Fittings",
+    "image_name": "tc_cross.png"
+  },
+  {
+    "name": "TC Short Band",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Short.b09424cc983bfea42930.png",
+    "category": "Dairy Fittings",
+    "image_name": "tc_short_band.png"
+  },
+  {
+    "name": "TC Long Band",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Long.3c8329e3dc9fb1e8920d.png",
+    "category": "Dairy Fittings",
+    "image_name": "tc_long_band.png"
+  },
+  {
+    "name": "Reducer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Reducer.f5342b16d35175df6674.png",
+    "category": "Dairy Fittings",
+    "image_name": "reducer.png"
+  },
+  {
+    "name": "TC Reducer",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/TCReducer.8dcb6932d5d17b2f2de9.png",
+    "category": "Dairy Fittings",
+    "image_name": "tc_reducer.png"
+  },
+  {
+    "name": "Tee",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Tee.482693b8d2281626c1ab.png",
+    "category": "Dairy Fittings",
+    "image_name": "tee.png"
+  },
+  {
+    "name": "TC Tee",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/TCTee.4a9817427c557e31bb48.png",
+    "category": "Dairy Fittings",
+    "image_name": "tc_tee.png"
+  },
+  {
+    "name": "TC Blind",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Blind.14b58547aec4bb790b92.png",
+    "category": "Dairy Fittings",
+    "image_name": "tc_blind.png"
+  },
+  {
+    "name": "Sts Union",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Union.9fc8bf8abfdcef80527c.png",
+    "category": "Dairy Fittings",
+    "image_name": "sts_union.png"
+  },
+  {
+    "name": "TC Clamp",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Clamp.a9874a4a792530943a23.png",
+    "category": "Dairy Fittings",
+    "image_name": "tc_clamp.png"
+  },
+  {
+    "name": "Hose Clamp",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Hose.8980dea49ebebd8718f6.png",
+    "category": "Dairy Fittings",
+    "image_name": "hose_clamp.png"
+  },
+  {
+    "name": "Slip On Flange",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Slip.5fe16a7011c535480f73.png",
+    "category": "Flanges",
+    "image_name": "slip_on_flange.png"
+  },
+  {
+    "name": "Blind Flnage",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Blind.a1f576b1c9574f5f5fc4.png",
+    "category": "Flanges",
+    "image_name": "blind_flnage.png"
+  },
+  {
+    "name": "WeldNeck Flange",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/WeldNeck.f85aa027c6d350b71553.png",
+    "category": "Flanges",
+    "image_name": "weldneck_flange.png"
+  },
+  {
+    "name": "Threaded Flange",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Threaded.464090fd97de63c39ad6.png",
+    "category": "Flanges",
+    "image_name": "threaded_flange.png"
+  },
+  {
+    "name": "Socket Weld Flange",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Socket.75ad18a087aa4f559feb.png",
+    "category": "Flanges",
+    "image_name": "socket_weld_flange.png"
+  },
+  {
+    "name": "1PC Ball Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PCBall.23e708cb6bdecf06d0da.png",
+    "category": "Valves",
+    "image_name": "1pc_ball_valve.png"
+  },
+  {
+    "name": "2PC Ball Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PC2Ball.559b3776a31829cb507d.png",
+    "category": "Valves",
+    "image_name": "2pc_ball_valve.png"
+  },
+  {
+    "name": "3PC Ball Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PC3Ball.686a4bc5967db697b5d4.png",
+    "category": "Valves",
+    "image_name": "3pc_ball_valve.png"
+  },
+  {
+    "name": "Flange Type Globe V",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Globe.2bedc90f340086a2d373.png",
+    "category": "Valves",
+    "image_name": "flange_type_globe_v.png"
+  },
+  {
+    "name": "Square Niddle Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Square.767082eeb03c82b43e16.png",
+    "category": "Valves",
+    "image_name": "square_niddle_valve.png"
+  },
+  {
+    "name": "Round Niddle Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Round.0bc9085521e4b56975ae.png",
+    "category": "Valves",
+    "image_name": "round_niddle_valve.png"
+  },
+  {
+    "name": "Flange Type Gate",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Gate.091f33c8c10a5b806655.png",
+    "category": "Valves",
+    "image_name": "flange_type_gate.png"
+  },
+  {
+    "name": "View Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/View.73e806547f25ff2f40af.png",
+    "category": "Valves",
+    "image_name": "view_valve.png"
+  },
+  {
+    "name": "Butterfly Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/Butterfly.e227fb97636ff9756a6d.png",
+    "category": "Valves",
+    "image_name": "butterfly_valve.png"
+  },
+  {
+    "name": "1PC Flange Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PCFlange.5cb6612d1ae73dd4b8f4.png",
+    "category": "Valves",
+    "image_name": "1pc_flange_valve.png"
+  },
+  {
+    "name": "2PC Flange Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PC2Flange.f495932969ffdf3a838e.png",
+    "category": "Valves",
+    "image_name": "2pc_flange_valve.png"
+  },
+  {
+    "name": "3PC Flange Valve",
+    "description": "",
+    "image": "https://fasteners-fittings.com/static/media/PC3Flange.b9e86a80b572f5dfcb5e.png",
+    "category": "Valves",
+    "image_name": "3pc_flange_valve.png"
+  }
+]
